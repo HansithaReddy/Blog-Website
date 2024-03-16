@@ -1,1 +1,1 @@
-# Blog-Website
+"Tech Tonic" Blog Website is a fundamental platform crafted to exhibit web development expertise acquired during an internship at CodersCave. It encompasses sections such as "AI," "Blockchain," and "IoT," showcasing adeptness in creating captivating content, implementing AI algorithms, crafting clean blockchain code, and analyzing IoT computational complexity. Despite its simplicity, the website boasts user-friendliness and adheres to responsive design principles, effectively highlighting the interns' prowess in web development.
